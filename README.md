@@ -14,3 +14,8 @@ Datank.ai has a CSR practice that aims to bring Data Science talent to topics an
 4. Is highly graphical, but explains each plot or chart clearly and relates it to the questions at hand.
 5. Uses plotly for the charts in this EDA.
 6. Draws meaningful conclusions.
+
+# Instructions
+1. Install the python packages: _jupyter_, _pandas_, _numpy_,_plotly_ and _cufflinks_
+2. Navigate in a command window to the repository folder and type `jupyter-notebook`
+3. Wait until a browser window is started with the jupyter console, and click in the _EDA.ipynb_ link
